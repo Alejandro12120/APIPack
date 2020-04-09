@@ -18,3 +18,5 @@ public class InventoryMaker {
 		item.setItemMeta(itemmeta);
 		return item;
 	}
+	
+}
